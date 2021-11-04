@@ -1,11 +1,11 @@
 <?php
 
-namespace r\Queries\Math;
+namespace r\Queries\Equal;
 
 use r\ValuedQuery\ValuedQuery;
 use r\ProtocolBuffer\TermTermType;
 
-class Match extends ValuedQuery
+class Equal extends ValuedQuery
 {
     public function __construct(ValuedQuery $value, $expression)
     {

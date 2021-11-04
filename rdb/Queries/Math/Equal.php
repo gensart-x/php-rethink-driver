@@ -1,6 +1,6 @@
 <?php
 
-namespace r\Queries\Equal;
+namespace r\Queries\Math;
 
 use r\ValuedQuery\ValuedQuery;
 use r\ProtocolBuffer\TermTermType;

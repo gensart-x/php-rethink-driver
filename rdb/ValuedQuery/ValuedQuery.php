@@ -74,7 +74,7 @@ use r\Queries\Math\Ge;
 use r\Queries\Math\Gt;
 use r\Queries\Math\Le;
 use r\Queries\Math\Lt;
-use r\Queries\Math\Match;
+use r\Queries\Math\RqlMatch;
 use r\Queries\Math\Mod;
 use r\Queries\Math\Mul;
 use r\Queries\Math\Ne;
